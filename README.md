@@ -1,8 +1,14 @@
 # MTA-VPS
 MTA-VPS: A Large-scale Benchmark for Video-Based Person Search
 
-![MTA-VPS Dataset](figs/View.pdf)
-![MTA-VPS Statistics](figs/Dataset_Statistics.png)
+<p align="center">
+<img src="figs/View.pdf" alt="MTA-VPS Dataset" width="80%">
+</p>
+
+<p align="center">
+<img src="figs/Dataset_Statistics.png" alt="MTA-VPS Statistics" width="80%">
+</p>
+
 
 ### Comparison between MTA-VPS and the current large-scale datasets for person search, person ReID, and video person ReID
 <table>
