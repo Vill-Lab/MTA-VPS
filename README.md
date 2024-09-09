@@ -6,7 +6,7 @@ MTA-VPS: A Large-scale Benchmark for Video-Based Person Search
 </p>
 
 <p align="center">
-<img src="figs\Dataset_Statistics.png" alt="MTA-VPS Statistics" width="80%">
+<img src="figs\Dataset Statistics.png" alt="MTA-VPS Statistics" width="80%">
 </p>
 
 
